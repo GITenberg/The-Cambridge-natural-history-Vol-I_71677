@@ -1,0 +1,48 @@
+_repo: The-Cambridge-natural-history-Vol-I_71677
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hartog, Marcus
+    gutenberg_agent_id: '56325'
+    url: http://www.gutenberg.org/2009/agents/56325
+  - agent_name: Hickson, Sydney J. (Sydney John)
+    alias: Hickson, Sydney John
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '52878'
+    url: http://www.gutenberg.org/2009/agents/52878
+    wikipedia: https://en.wikipedia.org/wiki/Sydney_J._Hickson
+  - agent_name: Sollas, Igerna Brünhilda Johnson
+    gutenberg_agent_id: '56326'
+    url: http://www.gutenberg.org/2009/agents/56326
+  editors:
+  - agent_name: Harmer, Sidney Frederic
+    gutenberg_agent_id: '56324'
+    url: http://www.gutenberg.org/2009/agents/56324
+  - agent_name: Shipley, A. E. (Arthur Everett), Sir
+    alias: Shipley, Arthur Everett, Sir
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '44635'
+    url: http://www.gutenberg.org/2009/agents/44635
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Shipley
+description: ''
+gutenberg_issued: '2023-09-18'
+identifiers:
+  gutenberg: '71677'
+language: en
+pgterms:marc904: https://archive.org/details/cambridgenatural01harm
+pgterms:marc905: 20201107084411harmer
+pgterms:marc906: '1906'
+pgterms:marc907: us
+production_note: Keith Edkins, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bMacMillan & Co., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cambridge natural history, Vol. I
+url: http://www.gutenberg.org/ebooks/71677
